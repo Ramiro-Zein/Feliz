@@ -1,0 +1,72 @@
+body {
+    background-color: rgb(255, 222, 206);
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
+
+body a {
+    color: rgb(148, 16, 148);
+}
+
+.Container {
+    text-align: center;
+    margin: 5%;
+    color: #9100a4;
+    font-size: 100%;
+    padding-top: 5%;
+}
+
+.Container h1{
+    margin-top: -2%;
+}
+
+.btn {
+    text-align: center;
+}
+
+.btn span h3{
+    font-size: 35%;
+    margin-left: 7px;
+    float:right;
+}
+
+.btn a{
+    text-decoration: none;
+    color: #191919;
+}
+
+.words, .words2, .words3, .words4, .words5 {
+    text-align: center;
+    border-radius: 5%;
+}
+
+.words {
+    background-color: #00bfff28;
+}
+
+.words2 {
+    background-color: #ff000028;
+}
+
+.words3 {
+    background-color: #00ff0828;
+}
+
+.words4 {
+    background-color: #ff00c328;
+}
+
+.words5 {
+    background-color: #ffea0028;
+}
+
+.words img {
+    padding-bottom: -50px;
+}
+
+.words p, .words2 p, .words3 p, .words4 p, .words5 p {
+    text-align: justify;
+    padding: 5%;
+    padding-top: 0;
+    margin: 0%;
+    color: #191919;
+}
